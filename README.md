@@ -17,8 +17,18 @@ I'm the visionary founder of **Easytech Hub Solutions**, where we provide **cutt
 
 🔗 Website: [Coming Soon]  
 📍 Location: Pwani University | Kenya  
-📞 WhatsApp: +254792515335 
-📩 Email: easytechhubsolutions@gmail.com/jerryoumaotieno@gmail.com  
+📞 WhatsApp: +2547XX XXX XXX  
+📩 Email: easytechhubsolutions@gmail.com  
+
+---
+
+## 🏅 Achievements
+
+- ![🎖️](https://img.shields.io/badge/-ISACA%20Kenya%20Cybersecurity%20Training-red) Completed Certified Cybersecurity Essentials Training with **ISACA Kenya Chapter**
+- ![🎥](https://img.shields.io/badge/-Hikvision%20Certified%20Installer-blue) Successfully trained in **CCTV Installation & Configuration** by **Hikvision Technologies**
+- ![🧠](https://img.shields.io/badge/-Peer%20Counselor-%23f39c12) Recognized as a **Student Peer Counselor** at **Pwani University** for promoting mental health and leadership
+- ![🚀](https://img.shields.io/badge/-Hackathon%20Winner-%23e67e22) 🏆 Winner – **Pwani University Tech Innovation Hackathon 2024**
+- ![🌐](https://img.shields.io/badge/-Developed%20Easytech%20Hub%20Solutions-%231abc9c) Founded and Launched **Easytech Hub Solutions**, delivering real-world tech products and services
 
 ---
 
@@ -94,4 +104,3 @@ I'm the visionary founder of **Easytech Hub Solutions**, where we provide **cutt
 ---
 
 _📌 Feel free to fork, star, or collaborate on any of my open-source projects. Let’s build something amazing together!_
-
