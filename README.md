@@ -17,8 +17,8 @@ I'm the visionary founder of **Easytech Hub Solutions**, where we provide **cutt
 
 🔗 Website: [Coming Soon]  
 📍 Location: Pwani University | Kenya  
-📞 WhatsApp: +2547XX XXX XXX  
-📩 Email: easytechhubsolutions@gmail.com  
+📞 WhatsApp: +254792515335 
+📩 Email: easytechhubsolutions@gmail.com/jerryoumaotieno@gmail.com  
 
 ---
 
